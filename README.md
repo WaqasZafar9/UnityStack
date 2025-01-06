@@ -69,3 +69,14 @@ For developers in **Pakistan and beyond**, this platform is more than just a too
 UnityStack is more than just a platform – it’s a **community-driven initiative** to connect developers, foster learning, and build meaningful professional relationships. Let’s solve problems, grow together, and make an impact.  
 
 💡 *Have questions or feedback? Feel free to open an issue or contact us directly!*  
+
+---
+
+## 👥 Contributors  
+
+We’re thankful for the following contributors who made UnityStack possible:  
+
+- [@WaqasZafar](https://github.com/WaqasZafar9)  
+- [@ALyanShahid](https://github.com/codezworl)  
+
+Want to contribute? Email me [waqaszafar771@gmail.com](#) and join the community!  
